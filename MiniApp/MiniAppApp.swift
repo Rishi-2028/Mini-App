@@ -11,7 +11,7 @@ import SwiftUI
 struct MiniAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DownloadingImages()
         }
     }
 }
